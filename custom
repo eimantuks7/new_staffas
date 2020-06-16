@@ -1,0 +1,504 @@
+.role-bouncer .from .un {
+ color: #8bb14e !important;
+}
+#user-lists .list.room .user.role-bouncer .name {
+ color: #8bb14e !important;
+}
+#waitlist .list .user .name .icon-chat-bouncer + span {
+ color: #8bb14e !important;
+}
+#footer-user .info .name .icon-chat-bouncer + span {
+ color: #8bb14e !important;
+}
+#chat .msg .text .name.bouncer,
+#chat .msg .text .name.bouncer .name {
+ color: #8bb14e !important;
+}
+#user-rollover.role-bouncer .username {
+ color: #8bb14e !important;
+}
+#user-rollover.role-bouncer .role span {
+ color: #8bb14e !important;
+}
+#user-rollover.role-bouncer .thumb {
+ border-color: #8bb14e !important;
+}
+.user-level.role-bouncer .circular-progress {
+ background-color: #8bb14e !important;
+ background-blend-mode: saturation;
+}
+.user-profile.role-bouncer .thumb.small {
+ border: 2px solid #8bb14e !important;
+}
+.user-level-dropdown.role-bouncer .progress-bar,
+.user-level-dropdown.role-bouncer .fa {
+ background-color: #8bb14e !important;
+}
+.user-level-dropdown.role-bouncer .user-level-dropdown__level-text {
+ color: #8bb14e !important;
+}
+.user-level-dropdown.role-bouncer .btn-level {
+ background: #8bb14e !important;
+}
+
+
+.role-manager .from .un {
+ color: #e94b3c !important;
+}
+#user-lists .list.room .user.role-manager .name {
+ color: #e94b3c !important;
+}
+#waitlist .list .user .name .icon-chat-manager + span {
+ color: #e94b3c !important;
+}
+#footer-user .info .name .icon-chat-manager + span {
+ color: #e94b3c !important;
+}
+#chat .msg .text .name.manager,
+#chat .msg .text .name.manager .name {
+ color: #e94b3c !important;
+}
+#user-rollover.role-manager .username {
+ color: #e94b3c !important;
+}
+#user-rollover.role-manager .role span {
+ color: #e94b3c !important;
+}
+#user-rollover.role-manager .thumb {
+ border-color: #e94b3c !important;
+}
+.user-level.role-manager .circular-progress {
+ background-color: #e94b3c !important;
+ background-blend-mode: saturation;
+}
+.user-profile.role-manager .thumb.small {
+ border: 2px solid #e94b3c !important;
+}
+.user-level-dropdown.role-manager .progress-bar,
+.user-level-dropdown.role-manager .fa {
+ background-color: #e94b3c !important;
+}
+.user-level-dropdown.role-manager .user-level-dropdown__level-text {
+ color: #e94b3c !important;
+}
+.user-level-dropdown.role-manager .btn-level {
+ background: #e94b3c !important;
+}
+
+
+.role-cohost .from .un {
+ color: #daa520 !important;
+}
+#user-lists .list.room .user.role-host .name {
+ color: #daa520 !important;
+}
+#user-lists .list.room .user.role-cohost .name {
+ color: #daa520 !important;
+}
+#waitlist .list .user .name .icon-chat-host + span {
+ color: #daa520 !important;
+}
+#footer-user .info .name .icon-chat-cohost + span {
+ color: #daa520 !important;
+}
+#chat .msg .text .name.cohost,
+#chat .msg .text .name.cohost .name {
+ color: #daa520 !important;
+}
+#user-rollover.role-cohost .username {
+ color: #daa520 !important;
+}
+#user-rollover.role-cohost .role span {
+ color: #daa520 !important;
+}
+#user-rollover.role-cohost .thumb {
+ border-color: #daa520 !important;
+}
+.user-level.role-cohost .circular-progress {
+ background-color: #daa520 !important;
+ background-blend-mode: saturation;
+}
+.user-profile.role-cohost .thumb.small {
+ border: 2px solid #daa520 !important;
+}
+.user-level-dropdown.role-cohost .progress-bar,
+.user-level-dropdown.role-cohost .fa {
+ background-color: #daa520 !important;
+}
+.user-level-dropdown.role-cohost .user-level-dropdown__level-text {
+ color: #daa520 !important;
+}
+.user-level-dropdown.role-cohost .btn-level {
+ background: #daa520 !important;
+}
+
+
+.role-host .from .un {
+ color: #daa520 !important;
+}
+#user-lists .list.room .user.role-host .name {
+ color: #daa520 !important;
+}
+#waitlist .list .user.role-host .name + span {
+ color: #daa520 !important;
+}
+#waitlist .list .user .name .icon-chat-cohost + span {
+ color: #daa520 !important;
+}
+#footer-user .info .name .icon-chat-host + span {
+ color: #daa520 !important;
+}
+#chat .msg .text .name.host,
+#chat .msg .text .name.host .name {
+ color: #daa520 !important;
+}
+#user-rollover.role-host .username {
+ color: #daa520 !important;
+}
+#user-rollover.role-host .role span {
+ color: #daa520 !important;
+}
+#user-rollover.role-host .thumb {
+ border-color: #daa520 !important;
+}
+.user-level.role-host .circular-progress {
+ background-color: #daa520 !important;
+ background-blend-mode: saturation;
+}
+.user-profile.role-host .thumb.small {
+ border: 2px solid #daa520 !important;
+}
+.user-level-dropdown.role-host .progress-bar,
+.user-level-dropdown.role-host .fa {
+ background-color: #daa520 !important;
+}
+.user-level-dropdown.role-host .user-level-dropdown__level-text {
+ color: #daa520 !important;
+}
+.user-level-dropdown.role-host .btn-level {
+ background: #daa520 !important;
+}
+/* END HOST */
+
+/* PROMOTOR */
+.role-promoter .from .un {
+ color: #1abc9c !important;
+}
+#user-lists .list.room .user.role-promoter .name {
+ color: #1abc9c !important;
+}
+#waitlist .list .user.role-promoter .name + span {
+ color: #1abc9c !important;
+}
+#footer-user .info .name .icon-chat-promoter + span {
+ color: #1abc9c !important;
+}
+#chat .msg .text .name.promoter,
+#chat .msg .text .name.promoter .name {
+ color: #1abc9c !important;
+}
+#user-rollover.role-promoter .username {
+ color: #1abc9c !important;
+}
+#user-rollover.role-promoter .role span {
+ color: #1abc9c !important;
+}
+#user-rollover.role-promoter .thumb {
+ border-color: #1abc9c !important;
+}
+.user-level.role-promoter .circular-progress {
+ background-color: #1abc9c !important;
+ background-blend-mode: saturation;
+}
+.user-profile.role-promoter .thumb.small {
+ border: 2px solid #1abc9c !important;
+}
+.user-level-dropdown.role-promoter .progress-bar,
+.user-level-dropdown.role-promoter .fa {
+ background-color: #1abc9c !important;
+}
+.user-level-dropdown.role-promoter .user-level-dropdown__level-text {
+ color: #1abc9c !important;
+}
+.user-level-dropdown.role-promoter .btn-level {
+ background: #1abc9c !important;
+}
+
+/* END PROMOTOR */
+
+/* RDJ */
+.role-dj .from .un {
+ color: #a471f2 !important;
+}
+#user-lists .list .role-dj .name {
+ color: #a471f2 !important;
+}
+#waitlist .list .user .name .icon-chat-dj + span {
+ color: #a471f2 !important;
+}
+#footer-user .info .name .icon-chat-dj + span {
+ color: #a471f2 !important;
+}
+#chat .msg .text .name.rdj,
+#chat .msg .text .name.rdj .name {
+ color: #a471f2 !important;
+}
+#user-rollover.role-dj .username {
+ color: #a471f2 !important;
+}
+#user-rollover.role-dj .role span {
+ color: #a471f2 !important;
+}
+#user-rollover.role-dj .thumb {
+ border-color: #a471f2 !important;
+}
+.user-level.role-dj .circular-progress {
+ background-color: #a471f2 !important;
+ background-blend-mode: saturation;
+}
+.user-profile.role-dj .thumb.small {
+ border: 2px solid #a471f2 !important;
+}
+.user-level-dropdown.role-dj .progress-bar,
+.user-level-dropdown.role-dj .fa {
+ background-color: #a471f2 !important;
+}
+.user-level-dropdown.role-dj .user-level-dropdown__level-text {
+ color: #a471f2 !important;
+}
+.user-level-dropdown.role-dj .btn-level {
+ background: #a471f2 !important;
+}
+
+/* END RDJ */
+
+/* HOST */
+
+#user-lists .list.room .user .icon-chat-host {
+ background: url("https://cdn.discordapp.com/attachments/605845129617735711/720750323068567594/host.png") !important;
+}
+#waitlist .list .user .name .icon-chat-host {
+ background: url("https://cdn.discordapp.com/attachments/605845129617735711/720750323068567594/host.png") !important;
+}
+#footer-user .info .name .icon-chat-host {
+ background: url("https://cdn.discordapp.com/attachments/605845129617735711/720750323068567594/host.png") !important;
+}
+#chat-suggestion-items .icon-chat-host {
+ background: url("https://cdn.discordapp.com/attachments/605845129617735711/720750323068567594/host.png") !important;
+}
+#user-rollover.role-host .role i {
+ background: url("https://cdn.discordapp.com/attachments/605845129617735711/720750323068567594/host.png") !important;
+}
+/* END HOST */
+
+/* COHOST */
+.msg .from .icon-chat-host {
+ background: url("https://cdn.discordapp.com/attachments/605845129617735711/720750323068567594/host.png") !important;
+}
+msg .from .icon-chat-cohost {
+ background: url("https://cdn.discordapp.com/attachments/605845129617735711/720750323068567594/host.png") !important;
+}
+
+#user-lists .list.room .user .icon-chat-host {
+ background: url("https://cdn.discordapp.com/attachments/605845129617735711/720750323068567594/host.png") !important;
+}
+#user-lists .list.room .user .icon-chat-cohost {
+	background: url(https://cdn.discordapp.com/attachments/605845129617735711/720750323068567594/host.png) !important;
+}
+#waitlist .list .user .name .icon-chat-host {
+ background: url("https://cdn.discordapp.com/attachments/605845129617735711/720750323068567594/host.png") !important;
+}
+
+#waitlist .list .user .name .icon-chat-cohost {
+ background: url("https://cdn.discordapp.com/attachments/605845129617735711/720750323068567594/host.png") !important;
+}
+
+#footer-user .info .name .icon-chat-cohost {
+ background: url("https://cdn.discordapp.com/attachments/605845129617735711/720750323068567594/host.png") !important;
+}
+
+#chat-suggestion-items .icon-chat-cohost {
+ background: url("https://cdn.discordapp.com/attachments/605845129617735711/720750323068567594/host.png") !important;
+}
+
+#user-rollover.role-cohost .role i {
+ background: url("https://cdn.discordapp.com/attachments/605845129617735711/720750323068567594/host.png") !important;
+}
+/* END COHOST */
+
+/* MANAGER */
+.msg .from .icon-chat-manager {
+ background: url("https://cdn.discordapp.com/attachments/602141647844671519/706980293004886027/manager.png") !important;
+}
+
+#user-lists .list.room .user .icon-chat-manager {
+ background: url("https://cdn.discordapp.com/attachments/602141647844671519/706980293004886027/manager.png") !important;
+}
+
+#waitlist .list .user .name .icon-chat-manager {
+ background: url("https://cdn.discordapp.com/attachments/602141647844671519/706980293004886027/manager.png") !important;
+}
+
+#footer-user .info .name .icon-chat-manager {
+ background: url("https://cdn.discordapp.com/attachments/602141647844671519/706980293004886027/manager.png") !important;
+}
+
+#chat-suggestion-items .icon-chat-manager {
+ background: url("https://cdn.discordapp.com/attachments/602141647844671519/706980293004886027/manager.png") !important;
+}
+
+#user-rollover.role-manager .role i {
+ background: url("https://cdn.discordapp.com/attachments/602141647844671519/706980293004886027/manager.png") !important;
+}
+/* END MANAGER */
+
+/* BOUNCER */
+.msg .from .icon-chat-bouncer {
+ background: url("https://cdn.discordapp.com/attachments/608465113711902731/699716533730934875/bouncer.png") !important;
+}
+
+#user-lists .list.room .user .icon-chat-bouncer {
+ background: url("https://cdn.discordapp.com/attachments/608465113711902731/699716533730934875/bouncer.png") !important;
+}
+
+#waitlist .list .user .name .icon-chat-bouncer {
+	background: url("https://cdn.discordapp.com/attachments/608465113711902731/699716533730934875/bouncer.png") !important;
+}
+
+#footer-user .info .name .icon-chat-bouncer {
+	background: url("https://cdn.discordapp.com/attachments/608465113711902731/699716533730934875/bouncer.png") !important;
+}
+
+#chat-suggestion-items .icon-chat-bouncer {
+	background: url("https://cdn.discordapp.com/attachments/608465113711902731/699716533730934875/bouncer.png") !important;
+}
+
+#user-rollover.role-bouncer .role i {
+	background: url("https://cdn.discordapp.com/attachments/608465113711902731/699716533730934875/bouncer.png") !important;
+}
+/* END BOUNCER */
+
+/* PROMOTER */
+#waitlist .list .user .name .icon-chat-promoter.has-staff {
+	background: url("https://cdn-prod.plug.dj/_/static/images/icons.006e28db12b650e8664d806f4ff4b55befe86b57.png") !important;
+}
+#footer-user .info .name .icon-chat-promoter.has-staff {
+	background: url("https://cdn-prod.plug.dj/_/static/images/icons.006e28db12b650e8664d806f4ff4b55befe86b57.png") !important;
+}
+#chat-suggestion-items .icon-chat-promoter.has-staff {
+	background: url("https://cdn-prod.plug.dj/_/static/images/icons.006e28db12b650e8664d806f4ff4b55befe86b57.png") !important;
+}
+#user-rollover.role-promoter.has-staff .role i {
+	background: url("https://cdn-prod.plug.dj/_/static/images/icons.006e28db12b650e8664d806f4ff4b55befe86b57.png") !important;
+}
+
+/* END PROMOTER */
+
+/* TAG CARGO */
+
+/* RDJ */
+
+.msg .from .icon-chat-dj {
+ background: url("https://cdn.discordapp.com/attachments/643618332230287361/706573738908319814/dj-resident.png") !important;
+}
+#user-lists .list.room .user .icon-chat-dj {
+ background: url("https://cdn.discordapp.com/attachments/643618332230287361/706573738908319814/dj-resident.png") !important;
+}
+#waitlist .list .user .name .icon-chat-dj {
+ background: url("https://cdn.discordapp.com/attachments/643618332230287361/706573738908319814/dj-resident.png") !important;
+}
+#footer-user .info .name .icon-chat-dj {
+ background: url("https://cdn.discordapp.com/attachments/643618332230287361/706573738908319814/dj-resident.png") !important;
+}
+#chat-suggestion-items .icon-chat-dj {
+ background: url("https://cdn.discordapp.com/attachments/643618332230287361/706573738908319814/dj-resident.png") !important;
+}
+#user-rollover.role-dj .role i {
+ background: url("https://cdn.discordapp.com/attachments/643618332230287361/706573738908319814/dj-resident.png") !important;
+}
+
+/* END RDJ */
+
+
+/* Burkyst */
+#user-rollover.id-20574971>.info>.role span {
+    text-indent: -9999px;
+    line-height: 0;
+}
+
+#user-rollover.id-20574971>.info>.role span:after {
+    text-indent: 0;
+    content: 'Owner';
+    display: block;
+    line-height: initial;
+    color: #daa520;
+}
+
+/* BOT */
+
+#user-rollover.id-29551770>.info>.role span {
+    text-indent: -9999px;
+    line-height: 0;
+}
+
+#user-rollover.id-29551770>.info>.role span:after {
+    text-indent: 0;
+    content: 'ChatBot';
+    display: block;
+    line-height: initial;
+    color: #daa520;
+}
+
+#user-rollover.id-29551770 .info .role i {
+    background-image: url('https://imgur.com/KAcdfgn.png') !important;
+}
+
+[data-cid^="29551770-"] .icon-chat-host {
+    background-image: url('https://imgur.com/KAcdfgn.png') !important;
+}
+/* END TAG CARGO */
+
+/* RDJ */
+
+.msg .from .icon-chat-dj {
+ background: url("https://cdn.discordapp.com/attachments/643618332230287361/706573738908319814/dj-resident.png") !important;
+}
+#user-lists .list.room .user .icon-chat-dj {
+ background: url("https://cdn.discordapp.com/attachments/643618332230287361/706573738908319814/dj-resident.png") !important;
+}
+#waitlist .list .user .name .icon-chat-dj {
+ background: url("https://cdn.discordapp.com/attachments/643618332230287361/706573738908319814/dj-resident.png") !important;
+}
+#footer-user .info .name .icon-chat-dj {
+ background: url("https://cdn.discordapp.com/attachments/643618332230287361/706573738908319814/dj-resident.png") !important;
+}
+#chat-suggestion-items .icon-chat-dj {
+ background: url("https://cdn.discordapp.com/attachments/643618332230287361/706573738908319814/dj-resident.png") !important;
+}
+#user-rollover.role-dj .role i {
+ background: url("https://cdn.discordapp.com/attachments/643618332230287361/706573738908319814/dj-resident.png") !important;
+}
+
+/* END RDJ */
+
+/* fix rdj */
+
+#user-lists .list.room .user i.icon-chat-dj {
+    top: 6px !important;
+}
+
+#chat-messages .from .icon,
+#chat-messages .from .icon.icon-chat-dj {
+    top: unset !important;
+}
+
+#waitlist .list .user .name i,
+#waitlist .list .user .meta.is-staff .name i.icon-chat-dj {
+    top: 2px !important;
+}
+
+#user-rollover .info .role i.icon-chat-dj {
+    margin-top: unset !important;
+}
+
+/* end fix */
